@@ -1,0 +1,114 @@
+Planificación del Proyecto: 
+Sistema de Recomendación de Música
+Marina Castro Novo 
+Grupo: RAIN_2
+Fecha de entrega: 9 de octubre de 2024
+
+Planificación 
+
+Semana 1 (25-sept al 2-oct): Inicio del proyecto
+	 Actividades:
+Decidir temática del proyecto: Sistema de recomendación de música.
+Informarse sobre el tema elegido.
+Crear el entorno de trabajo y desarrollo en VSCode e instalar las librerías recomendadas por el profesorado.
+	Objetivo:
+Tener claridad sobre el tema elegido, definir el enfoque del proyecto y establecer el entorno de trabajo.
+
+
+Semana 2 (2-oct al 9-oct): Toma de requisitos
+	Actividades:
+Elaborar el documento de planificación. 
+Diseñar las preguntas que se le harán a los usuarios para recolectar la información sobre sus gustos musicales, estado de ánimo…
+Familiarizarse con la librería Surprise y revisar ejemplos de uso.
+Objetivo:
+Entregar la planificación y tener la estructura de preguntas desarrollada para el sistema de recomendación.
+
+
+Semana 3 (9-oct al 16-oct):  Investigación y diseño preliminar
+	Actividades:
+Revisar las posibles estrategias para manejar la incertidumbre en las respuestas de los usuarios.
+Definir una estructura básica para capturar las respuestas de los usuarios.
+Empezar a integrar los datos de la base de datos con el modelo de filtrado colaborativo de Surprise. 
+Objetivo: 
+Tener un prototipo inicial para recolectar la información de los usuarios y empezar a utilizar los datos para recomendaciones.
+
+Semana 4 (16-oct al 23-oct): Desarrollo inicial
+	Actividades:
+Desarrollo del modelo inicial.
+Ajustar el sistema de preguntas y respuestas para manejar la incertidumbre de una manera más eficiente.
+Realizar pruebas preliminares del sistema con datos ficticios para afinar el modelo.
+Objetivo: 
+Progresar con el desarrollo del sistema y gestionar mejor la incertidumbre de los datos recogidos del usuario.
+
+Semana 5 (23-oct al 30-oct): Estructuración
+	Actividades:
+Llevar a cabo el  diseño de la arquitectura del sistema.
+Preparar la documentación de la arquitectura.
+Continuar ajustando el modelo en base a las pruebas realizadas.
+Objetivo: 
+Entregar el documento de arquitectura y refinar la precisión de las recomendaciones.
+
+
+Semana 6 (30-oct al 6-nov): Prototipo funcional 
+	Actividades:
+Trabajar en la implementación del prototipo.
+Implementar el sistema de manejo de incertidumbre (añadir preguntas adicionales, ponderación de respuestas ,etc…)
+Ajustar la interfaz de usuario para la mejora de recolección de datos y mostrar recomendaciones. 
+Objetivo: 
+Tener un prototipo funcional que pueda mostrar recomendaciones básicas.
+
+
+Semana 7 (6-nov al 13-nov): Pruebas y optimización
+	Actividades:
+Optimizar el prototipo.
+Probar el prototipo con varios usuarios para identificar posibles fallos o mejoras.
+Preparar el código fuente para su entrega.
+Objetivo: 
+Asegurarse de que el prototipo funcione correctamente y entregar el código fuente.
+
+
+Semana 8 (13-nov al 20-nov):  Documentación
+	Actividades:
+Desarrollar la estructura de la memoria del proyecto.
+Refinar detalles del sistema de recomendación según los comentarios recibidos en las pruebas. 
+Documentar todos los avances hasta la fecha y planificar el trabajo final.
+Objetivo: 
+Tener la estructura de la memoria definida y mejorar los aspectos técnicos del sistema.
+
+Semana 9 (6-nov al 13-nov): Evaluación y mejora 
+	Actividades:
+Continuar con el ajuste del sistema.
+Hacer revisiones del estado de avance del proyecto para asegurar la finalización a tiempo. 
+Refinar la documentación de la memoria.
+Objetivo: 
+Asegurar el progreso y mejorar la calidad de las respuestas y recomendaciones. 
+
+
+
+Semana 10 (27-nov al 4-dic): Preparación de la defensa 
+	Actividades:
+Preparar la defensa del proyecto.
+Revisar los puntos clave de la presentación y hacer pruebas.
+Realizar pruebas finales del sistema para asegurar que todo funcione bien.
+Objetivo: 
+Tener preparada la defensa del proyecto y asegurar que el sistema funcione correctamente. 
+
+
+Semana 11 (4-dic al 11-dic): Exposición
+	Actividades:
+Defender el proyecto en las sesiones de prácticas.
+Hacer los ajustes finales basados en los comentarios recibidos
+Objetivo: 
+Completar la defensa del proyecto.
+
+
+Semana 12 (11-dic al 18-dic): Cierre del proyecto
+	Actividades:
+Finalizar la memoria del proyecto.
+Incluir todos los componentes: descripción del sistema, código fuente, referencias y análisis de resultados. 
+Objetivo: 
+Entregar la memoria final del proyecto.
+
+
+
+
